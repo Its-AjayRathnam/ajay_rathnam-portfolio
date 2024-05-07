@@ -72,14 +72,14 @@
           </div> -->
 
         </div>
-        <div class="h-screen" id="skills">
+         <div class="h-screen" id="skills">
           <h1 class="text-h3">Skills</h1>
           <div class="mx-11">
             <ul class="skillImages pt-12 w-100"
               style="list-style: none; display: grid;grid-template-columns: auto auto auto; padding: 10px">
               <li class="skillImg" style="animation-delay: 3500ms; width: 30em;">
                 <div>
-                  <v-img src="./assets/new-php-logo.svg" :hover="!showSkills" width="200"></v-img>
+                  <!-- <v-img src="./assets/new-php-logo.svg" :hover="!showSkills" width="200"></v-img> -->
                   <v-card v-if="showSkills">
                     TEst
                   </v-card>
@@ -87,40 +87,40 @@
               </li>
               <li class="skillImg" style="animation-delay: 1000ms; width: 30em;">
                 <div>
-                  <v-img src="./assets/html-5-svgrepo-com.svg" width="170"></v-img>
+                  <!-- <v-img src="./assets/html-5-svgrepo-com.svg" width="170"></v-img> -->
                 </div>
               </li>
               <li class="skillImg" style="animation-delay: 1000ms;">
                 <div>
-                  <v-img src="./assets/dotnet-svgrepo-com.svg" class="rounded-circle" color="white" width="150"></v-img>
+                  <!-- <v-img src="./assets/dotnet-svgrepo-com.svg" class="rounded-circle" color="white" width="150"></v-img> -->
                 </div>
               </li>
               <li class="skillImg" style="animation-delay: 3000ms;">
                 <div>
-                  <v-img src="./assets/sql-database-generic-svgrepo-com.svg" height="100" width="100"></v-img>
+                  <!-- <v-img src="./assets/sql-database-generic-svgrepo-com.svg" height="100" width="100"></v-img> -->
                 </div>
               </li>
               <li class="skillImg" style="animation-delay: 3000ms;">
                 <div>
-                  <v-img src="./assets/mongodb-svgrepo-com.svg" height="100" width="100" color="white"
-                    class="rounded-circle"></v-img>
+                  <!-- <v-img src="./assets/mongodb-svgrepo-com.svg" height="100" width="100" color="white" -->
+                    <!-- class="rounded-circle"></v-img> -->
                 </div>
               </li>
               <li class="skillImg" style="animation-delay: 2500ms;">
                 <div>
-                  <v-img src="./assets/postgresql-svgrepo-com.svg" height="100" width="100"></v-img>
+                  <!-- <v-img src="./assets/postgresql-svgrepo-com.svg" height="100" width="100"></v-img> -->
                 </div>
               </li>
               <li class="skillImg" style="animation-delay: 3000ms; width: 30em;">
                 <div>
-                  <v-img src="./assets/artificial-bot-intelligence-svgrepo-com.svg" color="white" width="100"
-                    height="100" class="rounded-lg"></v-img>
+                  <!-- <v-img src="./assets/artificial-bot-intelligence-svgrepo-com.svg" color="white" width="100" -->
+                    <!-- height="100" class="rounded-lg"></v-img> -->
                 </div>
               </li>
               <li class="skillImg" style="animation-delay: 2200ms;">
                 <div>
-                  <v-img src="./assets/automation-engineering-hardware-2-svgrepo-com.svg" color="white" width="100"
-                    height="80" class="rounded-pill"></v-img>
+                  <!-- <v-img src="./assets/automation-engineering-hardware-2-svgrepo-com.svg" color="white" width="100" -->
+                    <!-- height="80" class="rounded-pill"></v-img> -->
                 </div>
               </li>
             </ul>
